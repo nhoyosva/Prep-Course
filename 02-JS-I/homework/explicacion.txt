@@ -1,0 +1,23 @@
+variables: una variable es una forma de guardar el valor de algo para ser usado mas tarde.
+ejemplo: variable nombre = "nicolas" esto hace que cuando escriba nombre devuelva "nicolas"
+
+srtings: es un tipo de dato de texto, es decir, son bloques de texto y estan representados
+entre comillas.
+
+funciones: las funciones son las encargadas de calcular las variables. estan conformadas asi:
+palabra function que indica que sigue una funcion, luego nombre de la funcion, seguido por un
+parentesis abierto y cerrado (), y por ultimo los corchetes {} ahi es donde va el codigo. 
+ejemplo: function holanico () {bloque de codigo};
+
+argumentos: son las variables que van en la funcion (recordar que va adentro de los parentesis).
+se pueden agregar varios argumentos separandolos por comas ,
+
+return: devuelve lo que se le pida adentro de la funcion. una ves utilizado adentro de la funcion 
+detiene inmediatamente lo que esta haciendo y devuelve lo especificado.
+
+if: es un control de flujo y comparacion, el cual, nos ayuda a especificar si algo es true y sea 
+ejecutado ese codigo, si es false sigue con el siguiente hasta encontar el true y ejecutarlo.
+
+valores booleanos true-false: en js los valores pueden ser true o false, cuando es true se 
+ejecuta el codigo, cuando es false sigue con la sigueinte linea hasta encontar la tru y 
+ejecutarla.
