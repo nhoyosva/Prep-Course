@@ -1,0 +1,8 @@
+FOR: es un bucle usado para repetir una cadena de codigo n veces. esta conformado por la palabra for (declarar variable; expresion condicional "el 
+codigo se sigue repitiendo hasta que esta sea falsa"; incremento de la variable).
+
+&&: Operador logico "and", devuelve true si las 2 expresiones son true, de lo contrario devuelve false.
+
+||: Operador logico "or" devuelve true si una de las condiocnes o las dos son true, devuelve false si las dos expreciones son falsas.
+
+!: operador logico "not" devulve el valor booleano contrario de lo que se le de.
